@@ -6,9 +6,6 @@ Me chamo Rodrigo Moreira Carvalho, sou desenvolvedor FullStack e trabalho com te
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoMCarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMCarvalho&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
-<a href="https://www.linkedin.com/in/rodrigo-moreira-carvalho-b9260b68/">
-<img alt="Linkedin Badge" src="https://img.shields.io/badge/-Rodrigo%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-moreira-carvalho-b9260b68/"/></a>
   
 ## ⚡ Tecnologias
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
@@ -29,6 +26,10 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  #
  
+ Contato
+ </br>
+ <a href="https://www.linkedin.com/in/rodrigo-moreira-carvalho-b9260b68/">
+<img alt="Linkedin Badge" src="https://img.shields.io/badge/-Rodrigo%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-moreira-carvalho-b9260b68/"/></a>
   
 
   
