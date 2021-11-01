@@ -1,11 +1,11 @@
 ### Olá 👋
 Me chamo Rodrigo Moreira, sou desenvolvedor FullStack e trabalho com tecnologia desde 2008.
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/RodrigoMCarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoredes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoredes&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+<--/div>
   
 ## ⚡ Tecnologias
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
