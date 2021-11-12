@@ -29,8 +29,3 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
  <a href="https://www.linkedin.com/in/rodrigo-moreira-carvalho-b9260b68/">
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-Rodrigo%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-moreira-carvalho-b9260b68/"/></a>
   
-<div>   
-
-   ![Snake animation](https://github.com/danspiegel/danspiegel/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
